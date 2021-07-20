@@ -1,4 +1,4 @@
-package cc.rcbb.captcha.ajcaptchademo;
+package cc.rcbb.captcha.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

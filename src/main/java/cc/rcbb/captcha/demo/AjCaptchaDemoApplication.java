@@ -1,4 +1,4 @@
-package cc.rcbb.captcha.ajcaptchademo;
+package cc.rcbb.captcha.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
